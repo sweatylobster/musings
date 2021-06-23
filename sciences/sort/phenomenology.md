@@ -1,19 +1,14 @@
 # why?
 
-Sabine Hossenfelder called mathematics useful. I thought she meant: mathematics a structure which mediates mind and world. No matter its domain or origin: would it not, in both cases, be the understanding? It's atypical to consider mathematics as an *a priori* science -- 
+Sabine Hossenfelder called mathematics "useful". No matter its domain or origin: would it not, in both cases, be the understanding? It's atypical to consider mathematics as an *a priori* science -- 
+
+ertainly pIt wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the influences the practice and development of physics far more than the . In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. This is to be contrasted with physics, who has a tradition of advancing itself by means of the "venerable" Euclidean axiomatic system. 
+
+She qualifies this by calling herself a physicist.
 
 # Feynman's insufficient classification of Euclidean science as an axiomatic system
 
 It suffices to say that Lobachevskian geometry is equally an axiomatic system, and is applied in no science which deals with empirical laws. Wouldn't this even be considered imprudent to try? Let's take note that in Einstein's special relativity, the Lorentz transformations convert the values along the three axes of a Gaussian system, into their corresponding values in the local, Euclidean system of coordinates. Doubtless this is because Newtonian mechanics are articulated with recourse to Euclidean propositions. Even the validity of Lagrangian mechanics, in its articulation of the formal mathematical character of experience, is dependent on Euclidean axiomatic science. The validity of the theory of special relativity is contingent upon the two systems [Gaussian, Euclidean] being interchangeable in their capacity to arithmetically regulate phenomena -- and *commensurably*. 
-
-
-
-
-ertainly pIt wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the influences the practice and development of physics far more than the . In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. This is to be contrasted with physics, who has a tradition of advancing itself by means of the "venerable" Euclidean axiomatic system. 
-
-
-She qualifies this by calling herself a physicist.
-
 
 # The common conception of mathematics
 
@@ -32,4 +27,4 @@ This is the most significant event in the child's conception of mathematics, and
 
 # Becoming aware of their necessary connection in the first place
 
-Do you have to read your Kant, and Husserl, and Lobachevsky, and Euclid in order to contemplate mathematics as the basis of phenomenology at all? Was it in Peirce's Law of Pragmatism lectures that I read that any phenomenology without mathematics is simply not phenomenology? Or something to that effect... Contemplating the relation between mathematics and logic is very, very difficult once we become aware of the problem of ciphers... How old are ciphers? Language is but one possible configuration of "semantides" which are auditory diagrams, to use a term attributed to Peirce. This might be a unique tradition privy to St. John's -- many alumni leave with all of the lements required to continue a fruitful investigation of it, in Husserl? Or Peirce and Popper? From whence does phenomenology come? And where does it stand, in taxonomical order, with the other sciences? I can't help but laugh at how ignorant we all are... What is it that I've become aware of? I don't think I could have attained it without reading Kant. I don't know how far behind I am, with respect to others... I don't know how deep the rabbit hole goes. 
+Do you have to read your Kant, and Husserl, and Lobachevsky, and Euclid in order to contemplate mathematics as the basis of phenomenology at all? Was it in Peirce's Law of Pragmatism lectures that I read that any phenomenology without mathematics is simply not phenomenology? (Yeah, lecture 2) Contemplating the relation between mathematics in its historical progression from the Greeks, and logic since the same, is very, very difficult once we become aware of the problem of ciphers for *geometry*... The Apostle translation of Aristotle uses ciphers to mark logical propositions, and then determine their relations by general terms. This is the end of application for ciphers:  Descartes's method of applying ciHow old are ciphers? Language is but one possible configuration of "semantides" which are auditory diagrams, to use a term attributed to Peirce. This might be a unique tradition privy to St. John's -- many alumni leave with all of the lements required to continue a fruitful investigation of it, in Husserl? Or Peirce and Popper? From whence does phenomenology come? And where does it stand, in taxonomical order, with the other sciences? I can't help but laugh at how ignorant we all are... What is it that I've become aware of? I don't think I could have attained it without reading Kant. I don't know how far behind I am, with respect to others... I don't know how deep the rabbit hole goes. 

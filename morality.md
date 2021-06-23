@@ -1,0 +1,3 @@
+It's interesting that many people spend their lives pondering the simple reality that morale and pain/pleasure are unique. Cogency of purpose, control over morale are in no way related to the for-granted justification of suffering. That speech-time is used to justify suffering and give it meaning, infuse it with meaning... somewhat silly. Morale is a physiological reality not solely governed by the phantasms which speech can produce, nor the ideological beliefs which derive from such phantasms.
+
+What meaning does bad morale have? ("What meaning does it not have?" Does this mean what meaning it excludes? I think of Godel naively.)
