@@ -1,6 +1,10 @@
 # History, self-determination; identity and success
 
-When people catch a lucky break, rapidly the vein runs dry. I'm not sure what it means to be responsible for something, since the theory of responsibility employed in social affairs is inadequate for articulating, in a fully causal scope, the actions of an animal will. Yes,  man is a political animal, and his will might therefore be best understood in the context of the city... but this is somewhat of a backwards argument. In what sense shall we find war to be in observance of a vital principle que la societe n'echappent point? reading Ortega y Gasset makes me have to reconsider how I make my approach. It seemed at first that my project was (whether at best or at worst I really can't say) an ignorant derivative of Aristotle's Ethics. We start at some definition of what excellence is which can find an application in some number of human activities, none of which, in my exposition would be as clearly and consistently applied as the ready-made one given in the ethics. 
+When the vein of a lucky break runs suddenly dry. The flaming sword, garden close -- closed (, rather). Adam didn't yet laugh at tubas as a child.
+Anyway, I'm not sure what it means to be responsible for something. I'm bored by serial killers, though once they were interesting. The trick is limiting their political and technological effectiveness. Is it for the best that we do not have a manner of using algebra to determine the constituent parts for the imagination's end? Why is it that we would lack this science? How is it that this would possibly be obscure to us, when geometry and algebra are so clera? Why could it not be similarly clera that the end we want from ourselves as our energies directing us into the status of the future desired now is the energies in its negative, which is the present moment's desire. There must be in consciousness, after mathematical cognition has turned the understanding in on itself, the image-recognition, or eikasia, does not have a manner of accounting for the production of forces relevant to the completion of a goal, or a plot of a project. The geometrical, spatial reaction is given by the temporally exploded independence of parts which have a synthesis-plan. related to truth and the mastery of nature since I'm split between the theory of responsibility employed in social affairs, inadequate for articulating, in a fully causal scope, what's realized by an animal will. Might is right is . 
+
+In what sense shall we find war to be in observance of a vital principle que la societe n'echappent point? 
+reading Ortega y Gasset makes me have to reconsider how I make my approach. 
 
 # Aristotle I guess?
 
@@ -99,11 +103,17 @@ Every sport, however, has particular configurations of dominance, which are the 
 What is produced? What can we say gives a result? For logical clarity, conscious application of concepts to the task at hand. Strategy makes the largest difference between competitive individuals. I'm a body, my health as a body is the first place I should look. Am I as agile, capable, fearless as I used to be? The body harbors trauma, and always has to shed it by pushing it out. The first thing that one should do to improve, then, is correct old trauma. This means wagering on the success of old body parts; performing as well as one used to. "I still got it."
 
 
-# Hegel 
-1. Dialectical triad is constant throughout history. It is a general form for any estimation of particular definitions of historical identities
+# Hegel?
+1. Dialectical triad is constant throughout history? It is a general form for any estimation of particular definitions of historical identities
 
 The rumor of the dialectical triad attributed to Hegel uses history itself as its perpetual example, much as the definition a triangle's sides define the triangle generally.
 The implementation of a America makes the rehearsal and audition of speeches  two-party system is bound to be self-identical, since it is the implementation of a stage-production which always rehearses and auditions the speech of a weathered set of costumes.
 
 
 America as the political schema which 
+
+
+
+# Deleuze
+
+# 

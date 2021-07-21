@@ -1,10 +1,33 @@
-# Definition of the entrepreneur; his mathematical sophistication 
+# Where the hell does money come from?
 
-An entrepreneur applies laborers to a task. This means that the task is organized logistically. Each employee is a logistical operator of an organ where the principle of organization is that of discrete control of a synchronized operation in the process of ordering labor.
+Somebody prints money to redeem goods or services. There is a server and a client. Income is always given by a client. The entrepreneur receives the income from the client. If their reputation is good, or if the business-model demands, payment is received in advance. 
 
-for which he receives his compensation is owed to his ordering of the logistics of labor. Thus it is his will which, in organizing these discrete organs, receives compensation. There is no interruption of the principle of compensating someone for their labor; he is in fact compensated for the labor accomplished in the act of designating the appropriate and necessary tasks, fulfilled by organization of the appropriate organs, on a temporal schedule for the realization of the building. Thus his logistical effort is at first a physics problem, viz. of what may be realized in time. Secondly it is a fiscal/practical problem, viz. of what *we* might do with our current access to resources. 
+# Definition of the entrepreneur
 
-The law in our case hampers the scope of our improvised or simulated access to resources.
+The entrepreneur faces expenses alone. To obtain security in the face of this risk, she selects dependable instruments, receiving compensation for directing their energies. The entrepreneur stands as . This logistical direction the justification for her pay-grade. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function, logistical labor, and philanthropic employment of laborers. This is always a social position, and is not suited to asocial mathematicians, although their clarity in *a priori* matters uniquely optimizes (arithmetical) logistics. The larger a company, the greater the expenses incurred by operation. For large businesses, mathematical accounts of logistical optimization become indispensable. The least inefficiency is shown to be ridiculously costly on monthly balance-sheets. More on mathematics later. The entrepreneur's labor is of designating necessary tasks. So the entrepreneur issues a logistical plan which brings income under certain conditions. Managers hired ensure that the conditions obtain.
+
+# Relation of the entrepreneur to managers 
+
+Where entrepreneurs assemble laborers, managers direct their energies according to logistical requirements. The closer the managers are to implementing logistical plans of their own, the more credit they should receive for generating income, (by Locke's definition of labor-value) which is the struggle of being a conscientious entrepreneur. It could even be that managers are responsible for hiring, if their executive function is well-aligned with the logistical problem of income, generation of revenue. In a company whose managers lack executive function, the entrepreneur both assembles and schedules; in a company where the entrepreneur does both, the managers are hardly more than veteran employees (high-myelin). 
+
+
+Laborers complete tasks according to {pride, myelin, health, energy}. These internal limitations stand in the way of "delivery" more so than external limitations, which is the reason the entrepreneur (supreme executive function) is usually the one hiring: consistency, dependability are for the sake of minimizing internal limitations, and therefore ensuring a consistent degree of instrumentality. The external limitation to a task's completion is the physical/material problem, which is a matter of mechanics that remains known in the equation of making income. "We know it takes a month for us to get this permit. Business as usual." Or: ""  It falls to a manager to ensure that the energies of laborers are at all times logistically required. Each employee is a logistical operator of an organ in a synchronized organism.
+
+# Mathematical sophistication of the entrepreneur's plan
+
+## External limitations of logistical realization
+
+# Political | Social
+
+This is the unique terrain of the business. People who have "been in the industry," or who "know the lay of the land" understand just these external limitations. "One can't expect a response from (x) before a week, because it's just the way the business works. Idk man, processing time, or whatever." Here, we do need an *a posteriori* science of the business, since it's political.
+
+# Physical | Mechanical
+
+The clearest example is in construction: There is a limit to the amount of Joules a team can expend in an 8-hour shift. Similarly, concrete takes a given amount of time to dry. That is, the building is realized in a sequence, and the pace of the steps depends on limitations of physics. Fortunately, we are accustomed to quantizing these physics-mechanics factors of realization. 
+
+This means determining the calculus of injury of bodies 
+disposed to distribute force in space, bearing the like of bulk and loads,
+Gargantuan sport-ilk wresting Ents must be Cartesian wherefore? 
 
 # How does this guy gain from mathematical specificity again?
 
