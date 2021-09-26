@@ -2,12 +2,36 @@
 
 I want to be an engineer, but my demon is skepticism. At this stage, I am so doubtful of the benefits that any study has to offer with respect to practical improvement. 
 
+To be wise is to adore my demon as a gift (dora), since it is the negative form of my power of demonstration. Reason is a noble beast, and its dignity is demonstration; skepticism is its spur. To replace skepticism with firm audacity (avid--to want very much) resembles the field tracted/worked/plowed by the yoked ox. Every desire has its demon. Heaven or hell is the ensuing combat with the demon. Men are only incredulous of what has not been demonstrated to them.
 
-
-
-To be wise is to adore my demon as a gift (dora), since it is the negative form of my power of demonstration. Reason is a noble beast, and its dignity is demonstration; skepticism is its spur. To replace skepticism with firm audacity (avid--to want very much) resembles the field produced by the yoked ox. Every desire has its demon. Heaven or hell is the ensuing combat with the demon. The structures which appear to be the most audacious and least secure have been constructed according to demonstrably sound principle, which is self-identical in all instances of its success. This principle can be schematized by a  am dissuaded by skepticism, I will exert the power of demonstration.  Men are only incredulous of what has not been demonstrated to them. Nature is the most impressive and accounts of it are easily demonstrable. I want demonstrable accuracy of my predictions about states of a system. Forces are deduced from motions upon definite bodies. 
+Nature is the most impressive and accounts of it are easily demonstrable. I want demonstrable accuracy of my predictions about states of a system. Forces are deduced from motions upon definite bodies. 
 
 arithmetic specification of the future state of the arithmetical parts of determinable systems.
+
+# The relation of mathematics to doubt
+
+Hegel C.(AA) : Emancipation of Spirit: Stoicism, then skepticism, then reason's self-observation.
+
+We naturally doubt, and this runs rampant of its own accord.
+Lessons from alcohol refine the doubt one ought to have. 
+Ponderers, ostensibly descendants of alcoholics. 
+Actors, the same.
+
+Probability doesn't give a right to doubt. 
+As treated here, Probability stands in no relation to beliefs.
+The reason is beliefs influence behavior. 
+A belief that it won't rain tomorrow is the permission that our sloth needs,
+when we know we should cover the tractors, 
+
+Allowing estimates to influence beliefs ultimately makes an interpretation of Probability moral.
+
+
+When a precautionary measure is shirked upon report of low chances of its hazard's occurence,
+we find prudence motivates valuable action,
+while probability cuts costs.
+
+The compensation Bayes offers allows for the odds to perpetually be changed,
+but the Markov model is always the perfected new wager 
 
 # Newton's introduction to the Principia
 
