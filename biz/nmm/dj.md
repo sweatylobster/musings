@@ -1,5 +1,5 @@
 # DJ for Dean Jackson
-Make a money machine. Determine your living expenses for your ideal lifestyle a priori, and have it be a determined portion of your passive income. 
+Make a money machine. Determine your living expenses up-front. Define your lifestyle, and have it be a determined portion of your passive income. 
 
 # How to make a money machine?
 Cold call is labor with no leverage. Direct response marketing -- everybody knows what they're buying, and they want it! That's why they're calling you.
@@ -12,7 +12,7 @@ Freedom depends on the configuration where you don't have to serve with your per
 
 # View to the customer
 
-The customer is not a tree in the forest -- the customer is *one person*. Yes, the customer can be classified -- this is what YouTube, Facebook, Amazon all do. In the case of Amazon, it is both the agora and the direct response, relevant marketer. Diversity of values must be addressed: convenient, rigorous, etc. Systematize meeting different criteria.
+The customer is not a tree in the forest -- the customer is *one person*. Yes, the customer can be classified -- this is what YouTube, Facebook, Amazon all do. In the case of Amazon, it is both the agora and the directly responding marketer. Diversity of values must be addressed: convenient, rigorous, etc. Systematize meeting different criteria.
 
 # View to the market
 
@@ -49,7 +49,7 @@ Scheduling of value exchange
 You're allowed to get what you want. Unconscious opens channels in line with desire. Be clear with what you want, don't settle. Be clear with the level of freedom that you want, and don't settle. Technology is your instrument to attain that. Desire organizes the technology. 
 
 # The requirement of freedom
-Do the work before you get the value. Take the risk that you're not gonna get the value returned. 
+Do the work before you get the value. Hazard ignorant of desert! 
 
 # Business has to address these three needs
 Before - Build potential clientele (get the person whose needs you can satisfy)
@@ -67,14 +67,7 @@ You already are the de facto server. If you nurture the bond you have with this 
 
 # Before
 Who are the individuals who really need this?
-Joe's Bros gadgets and ganj:
-1. The people who are depressed or lonely
-2. The people who don't have 'time' or skill to roll weed
-3. The people who want to impress their friends with their cool paraphernalia (social smokers)
 How do I reach these people?
-1. Through delivery services
-2. At social events, through delivery services
-3. At the sesh, at social events
 
 # During
 People want the end result. If I'm selling my house, I wanna get into my new house, stat. Sure, I'll choose someone who'll get me my house sold, but if someone gives me a check to get me into my new house, I'll go with them, even if the sale takes longer. The value I render is instrumental to *their* destination. What are the most predictable ways to get them to their destination? Systematize meeting their criteria. What is it that delivers beyond what a person expects to receive? (The cookies, for example.) If the other person is invested, prepared, have the idea of where they're gonna go, all you do is relax and state your needs. That's what makes me a raving fan. 
