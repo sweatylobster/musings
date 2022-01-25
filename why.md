@@ -4,7 +4,17 @@ Somebody prints money to redeem goods or services. There is a server and a clien
 
 # Definition of the entrepreneur
 
-The entrepreneur faces expenses alone. To obtain security in the face of this risk, she selects dependable instruments, receiving compensation for directing their energies. The entrepreneur stands as . This logistical direction the justification for her pay-grade. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function, logistical labor, and philanthropic employment of laborers. This is always a social position, and is not suited to asocial mathematicians, although their clarity in *a priori* matters uniquely optimizes (arithmetical) logistics. The larger a company, the greater the expenses incurred by operation. For large businesses, mathematical accounts of logistical optimization become indispensable. The least inefficiency is shown to be ridiculously costly on monthly balance-sheets. More on mathematics later. The entrepreneur's labor is of designating necessary tasks. So the entrepreneur issues a logistical plan which brings income under certain conditions. Managers hired ensure that the conditions obtain.
+The entrepreneur faces expenses alone. To obtain security in the face of this risk, she selects dependable instruments, receiving compensation for directing their energies. That there are materials to adapt and prepare by workers is what justifies the entrepreneur's entitlement to the majority of profit. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function. To borrow a concept from Ford Doolittle, the entrepreneur writes a song the employees sing. Any choir can perform the song -- any audience member can recognize the song. The employees are not essential to the being of the song in the abstract. They are rather its activity, its execution. 
+
+# The entrepreneur neither expert nor learner. 
+
+The entrepreneur is typically charismatic, He must be sure of his judgment, and not show signs of insecurity -- it's bad for morale. As such, the entrepreneur is not unlike the general -- his is the last word.
+
+at times, decidedly against logical rigor, leaving this 'squabbling' to mere specialists.
+Under what conditions of logistical independence is this attitude permissible?
+
+
+is somewhat ironic since The logical clarity of employees and specialists in *a priori* matters uniquely optimizes (arithmetical) logistics. The larger a company, the greater the expenses incurred by operation. For large businesses, mathematical accounts of logistical optimization become indispensable. The least inefficiency is shown to be ridiculously costly on monthly balance-sheets. More on mathematics later. The entrepreneur's labor is of designating necessary tasks. So the entrepreneur issues a logistical plan which brings income under certain conditions. Managers hired ensure that the conditions obtain.
 
 # Relation of the entrepreneur to managers 
 
