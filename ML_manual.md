@@ -1,7 +1,20 @@
 # Cleaning data
-X and y are bijective (len(X) == len(y))
-X is somewhat noisy.
-If every element of X is an array of size (16, 16)
+X_train and y_train are bijective (len(X) == len(y))
+Y_pred, y_test, and X_test are trijective (len, len, len...)
+How is data adapted to be ideal input for a given ML algorithm?
+How does a method take input to produce output? 
+If we have to simplify input for an algorithm to work:
+  How to represent without losing important information (How to define importance of information? How to rank?)
+There may need to be methods/algorithms for evaluating the importance of data components for making stastical inferences
+If I can compress the data (.jpeg) and get 'practically' the same image (RGB) as an uncompressed (.raw) or other file (.png) -- because my compression algorithm 'filters' data: what 'skeleton' faithfully represents the image? What's redundant? 
+This means that the algorithm has some measure of redundancy
+Likewise, could there be general compression algorithms for data?
+Can I know what bits can be sifted out for various representations of real things?
+Is it possible to feed the learning algorithm to be used, the training data, and the target;
+  into an algorithm/function, and receive a representation of the training data which practically gives the same accuracy as a lossless data format? Isn't this the same as training the model on the data? The point is to save time.
+  This is why a general method would be useful, for figuring out how to clean data, and only feed what is necessary for inference? But if the data is lossy, then the shape of patterns is reduced -- forms lose their meaning, and the idea of weighing the meaning of diverse shapes makes the model ----- but wait -- we want this for a particular dataset,
+  which is to be used to train a particular model (by a particular alg) for a particular target! That is -- .jpeg compresses *images* (obviously). It's not an algorithm we'd expect to preserve the most significant bits of an audio file. (We'd use ~.mp3 for that.)
+
 
 # Choosing a classifier
 There's a flowchart on my Desktop.

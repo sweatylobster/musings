@@ -1,10 +1,10 @@
 # Where the hell does money come from?
 
-Somebody prints money to redeem goods or services. There is a server and a client. Income is always given by a client. The entrepreneur receives the income from the client. If their reputation is good, or if the business-model demands, payment is received in advance. 
+Somebody prints money. Money is demanded to value/trade valuables. There is a server and a client. Income is always given by a client. The entrepreneur receives the income from the client. If their reputation is good, or if the business-model demands, payment is received in advance. 
 
 # Definition of the entrepreneur
 
-The entrepreneur faces expenses alone. To obtain security in the face of this risk, she selects dependable instruments, receiving compensation for directing their energies. That there are materials to adapt and prepare by workers is what justifies the entrepreneur's entitlement to the majority of profit. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function. To borrow a concept from Ford Doolittle, the entrepreneur writes a song the employees sing. Any choir can perform the song -- any audience member can recognize the song. The employees are not essential to the being of the song in the abstract. They are rather its activity, its execution. 
+The entrepreneur faces expenses alone; selects dependable instruments to avert/minimize risk. These instruments are dependable by wage contracts. Business is negotiation, and better entrepreneurs are better negotiators. People can always negotiate rates -- having a reservation price is always a viable strategy. Entrepreneur receives most compensation for providing the end to which laborers work. That there are materials to adapt and prepare by workers is what justifies the entrepreneur's entitlement to the majority of profit. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function. To borrow a concept from Ford Doolittle, the entrepreneur writes a song the employees sing. Any choir can perform the song -- any audience member can recognize the song. The employees are not essential to the being of the song in the abstract. They are rather its activity, its execution. 
 
 # The entrepreneur neither expert nor learner. 
 
