@@ -2,8 +2,32 @@
 
 How much education do you need to be a master of the world? And to master nature? What about having a formal language for instrumentality?
 
+Ultimately, education gives us tools to inspire and regulate the imagination. To communicate well is to regulate the imagination of others well. To think well is to regulate our own imagination well. Completely different tasks. In both cases, simplicity is preferred.
+
+To master the world is to falsify it to reduce it suitably. A master has an end to which his slave is adapted. The appearances are reduced to mental phantoms/ noetai. The complex world is reduced to identities which are easily put into analogies (Homer's similes, Heraclitus's metaphors, Socrates's myths, Descartes's ciphers, Galileo's diagrams, Newton's diagrams, Leibniz's symbols). To master is to reduce, to subjugate complexity.
+
+Rules of a game similarly subjugate the soul, provisionally reduce its complexity. This is necessary for clarity; we cannot think without simplification. Language itself never appears without rules. Word-games would not be so ironic otherwise. "Cheveux, not chevaux!" *Thinking* is a game, which can make only certain legal moves. 
+
+A turn of phrase may be as scintillating in a poem as it is opaque in prose, though they both are in the domain of language. There is no pure meaning to the phrase.
+In a similar way, the same figure viewed by the Lobachevskian and Euclidean sets of axioms would appreciate the figure's *importance* differently.
+
+To finish this argument satisfactorily, I need to:
+ 1. describe a meaningful distinction between theorem and problem,
+ 2. show they vary in importance of rank (in a way common to both systems)
+ 3. prove some diagram 'figures' a problem here, and a theorem there.
+
+Well -- is it possible for any diagram to not be perfectly general? After all, I did say: "The Euclidean method uses the imagination to construct a general phantom of a geometrical object." The diagram is not the proof. The proof will always spur the intuition to give any number of appropriate diagrams. Therefore, the figure is always an [exempli gratia.](https://en.wiktionary.org/wiki/exemplum#Latin)
+# Playfulness needed for mastery, homo ludens, warrior dancing @ campfire
+
+Playful minds invent (erfind) some meaning for the phrase by the context's grip on the imagination. Thinking better is like traversing city architecture more like a traceur. Traceurs violate no laws, no rules of movement and possibility. They take a different attitude towards danger and security. The structure is not a security opposed to the danger of movement -- the structure enables the security of movements. The dance of danger is entirely psychological. The power to choose not to fall is exercised by the practitioner. Rails which stabilize little old ladies launch the traceur, or hone his arrival. The creativity reminds me of the maiden on the front of a ship outstretched over the abyss. To use pedagogy for forms and never applications. learning the rules on the fly. 
+
 # Abstract: What enables empirical inference? Descartes, Hobbes, MGS
-Today, it is taken for granted that man has power over nature. The form of this power is of intelligent (sapient) relation to nature, enabled by Descartes's method (which I speculate is in Ad Regulae Directionam Ingenii-Rules for the Direction of the Mind). Venom Snake as homo sapiens, who is necessarily ignorant of himself, though he can fulfill operational objectives with high precision. This man's power is alienated from his own musculature, i.e., is disembodied; the political implications of this are made abundantly vivid by Hideo Kojima: The disembodied reason requires the use of a machine (Skull Face's Sahelanthropus, Miller's Venom Snake, Cipher's Miller, Cipher's Jack) in proportion with the will of this disembodied reason (Sahelanthropus to Skull Face, mediated by Tretij Rebenok). Sahelanthropus is the "commonwealth" of Skull Face as pure reason, Tretij Rebenok its spirit and regulator. The domain of this excellence is noetical. As concerns the activity of pure reason, it operates quite unremarkably -- or *regularly*. To account for the awesome power of man the knower, we must look, instead, to the awesome concept-body by which he models any possible experience of nature. After reading Lachtermann, I might identify man the knower with man the poet, the fabricator, and doer-inventor. The meaning of mathematical forms admitted into practical sciences: it's the abstract form of an analogy for any possible experience. 
+Today, it is taken for granted that man has power over nature. The form of this power is of intelligent (sapient) relation to nature, enabled by Descartes's method. In short, Descartes's 'revolutionary paternity' reduces the act of coordinating the imagination to a coordination of symbols. The Euclidean method uses the imagination to construct a general phantom of a geometrical object. The proofs are general because they use the generic qualities of figures to prove any proposition. figuring geometrical magnitudes, and reasoning through figures (which I speculate is in Ad Regulae Directionam Ingenii-Rules for the Direction of the Mind). Venom Snake as homo sapiens, who is necessarily ignorant of himself, though he can fulfill operational objectives with high precision. 
+
+The domain of this excellence is noetical. As concerns the activity of pure reason, it operates quite unremarkably -- or *regularly*. To account for the awesome power of man the knower, we must look, instead, to the awesome concept-body by which he models any possible experience of nature. After reading Lachtermann, I might identify man the knower with man the poet, the fabricator, and doer-inventor. The meaning of mathematical forms admitted into practical sciences: it's the abstract form of an analogy for any possible experience. 
+
+
+This man's power is alienated from his own musculature, i.e., is disembodied; the political implications of this are made abundantly vivid by Hideo Kojima: The disembodied reason requires the use of a machine (Skull Face's Sahelanthropus & Miller, Miller's Venom Snake, Cipher's Miller, Cipher's Jack) to enact its goals. The machine-body/commonwealth is in proportion with the will of this disembodied reason (Sahelanthropus to Skull Face, mediated by Tretij Rebenok). Sahelanthropus is the "commonwealth" of Skull Face as pure reason, Tretij Rebenok its insensible, invisible spirit and regulator. 
 
 
 

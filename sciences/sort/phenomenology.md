@@ -1,10 +1,8 @@
 # why?
 
-Sabine Hossenfelder called mathematics "useful". No matter its domain or origin: would it not, in both cases, be the understanding? It's atypical to consider mathematics as an *a priori* science -- 
+Sabine Hossenfelder called mathematics "useful". No matter its domain or origin: would it not, in both cases, be the understanding? People typically don't consider mathematics an *a priori* science. There's no common wellspring of its truth, because mathematics is not explored phenomenologically. Even then, we don't know how we stand in relation to Kant, Hume.  
 
-ertainly pIt wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the influences the practice and development of physics far more than the . In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. This is to be contrasted with physics, who has a tradition of advancing itself by means of the "venerable" Euclidean axiomatic system. 
-
-She qualifies this by calling herself a physicist.
+ertainly pIt wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the social sciences. In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. Our vanity on the one hand makes it difficult to simplify ourselves, and on the other hand simplifies nature with marvelous economy. 
 
 # Feynman's insufficient classification of Euclidean science as an axiomatic system
 
