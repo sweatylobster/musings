@@ -1,10 +1,52 @@
 # The driving question!!
 
-How much education do you need to be a master of the world? And to master nature? What about having a formal language for instrumentality?
+How much education do you need to be a master of the world? And to master nature? (formal language for instrumentality)
+
+
 
 Ultimately, education gives us tools to inspire and regulate the imagination. To communicate well is to regulate the imagination of others well. To think well is to regulate our own imagination well. Completely different tasks. In both cases, simplicity is preferred.
 
-To master the world is to falsify it to reduce it suitably. A master has an end to which his slave is adapted. The appearances are reduced to mental phantoms/ noetai. The complex world is reduced to identities which are easily put into analogies (Homer's similes, Heraclitus's metaphors, Socrates's myths, Descartes's ciphers, Galileo's diagrams, Newton's diagrams, Leibniz's symbols). To master is to reduce, to subjugate complexity.
+# To master the world is to falsify it.
+
+How is the falsification accomplished?
+
+# "Understanding the world" is a paradoxical phrase
+
+We often hear the object of science is to understand the world. But this phrase doesn't seem consistent with what we experience the world to be through Kant and Descartes's philosophies. With Descartes, it's shown that a simple rejection of the senses is enough to throw the being of the world into doubt. A lot happens When Descartes rejects the senses, but one consequence is losing the world. All that remains is the apodeictic. 
+
+# Cartesian diversion
+(It would be odd to reject the trustworthiness of logic -- something has to have a force of convincing/compelling force. I've heard it said maybe by Nietzsche that the logical is the irresistible. [And a curious fact about logic in computers is that only NAND gates are required to build all of the other gates: XOR, XNOR, OR, NOR, NOT, AND -- and maybe others. It's curious that Descartes doesn't count knowledge that he is alive as a sensation. Really, the man never clearly distinguishes between the interior and exterior -- not in a logically rigorous fashion that would satisfy Socrates, for example. Why does "j'existe" follow out of "je pense?" Why aren't my sensations trustworthy? Is it because I wake up, swearing that I was somewhere else, and felt other things -- maybe even the opposite of what I now feel? My being is also one of those things beyond sensation. So if death is loss of sensation or will, it's not cessation of being. If the truth exists, it must have some relation to me, if I am. How can we doubt sensation?])
+But the other side of this is that, because we can conclude that we are, we must say that being is, since we alone does not imply the copula "are", and I am just as certain that we are as I am. Does Being change in its investment in new clothes?
+
+# World's complex, understanding's simple
+
+While the world is complex, what we understand is simple. The understanding seems to be essentially different from the world. 
+For the world exists without our thinking it. Therefore the world is not cognized. We in fact *remember* we're in the world. Now, if we can only understand what we cognize, the world can't be understood. Therefore, because the world has never been cognized, it has never actually been understood. 
+
+
+If we can only understand a cognition, or a mental act, then a sensation would have to be thought through in order to be understood. If sensation alone gives the world. 
+
+
+But we know the world exists, and that what we say about it holds true. This isn't really being threatened by the current argument -- I maintain this as well.
+The world is sensed, however. That the world is exclusively given by sensation is that there is no proof for it when Descartes rejects the senses as . the *cogito, ergo sum* remembers the world it willed to doubt. How would Descartes secure the world via God, if it is not the same one he sensed? This might be the very problem behind Descartes's The World which Galileo criticized -- the world is exclusively given by sensation. Therefore
+
+We think that our nature *is* nature
+We are not as infinite as nature, because we know our sensations
+Our sensation is how we communicate the world
+We shouldn't confuse, because of this, that we can know the world
+This is what makes the Delphic injunction to Socrates "know thyself" possible and prescient
+
+What we understand comes in the form of a recognition. If we think we recognize the world, we in fact recognize the very sensation it excited. We recognize our imagination of the world *being a certain way*. Then the understanding must be re-cognition of the sensation of the way the world is. Recognition is re-excitation of the same sensations the world excites by means of an instrument, phantasm, or aid. It's very simple. 
+
+Therefore, science does not encode *the world* into mathematical form. This is not the project of physics. It encodes the sensations that give the movement of the world. (Delta in calculus is bound to sensation -- *nothing exists in the intellect which was not in sensation.*) This is not meant to be precious or controversial, but clarifying. 
+
+In what sense is science a body? It's not a body of work, since this phrase admits for a sprawling structure with interminable, groping sinews to be considered a body. A 'cadavre exquisite' is more perfect. Each artist bows to the whole by giving the leading lines for the subsequent artist. Each part obeys the plan of the whole. Science would then appear to be a similar kind of body, or confederate body. The parts of a confederacy are clearly delineated, don't mimic one another's form or rule, and suggest a total structure in their delineation. But for the individual states to be one larger unity, they must obey some one will or law. (Crito comes to mind -- Socrates does not disobey the conclusion of the city, even though he may have been put to death unjustly. He does not say what would happen if he did disobey, or flee. He invites Crito to imagine what it would say if he did flee punishment. According to Heidegger in Being and Time, logos is revelatory by means of appearances (phainesthai). This is consistent with Aristotle's claim that we require a phantasm for thinking, which is similar to the Kantian 'Vorstellung' that . Peirce adopts a sign etc. If philosophy makes its movements by logos,  which, apart from the daimon, have a primary role in dictating what can follow, or be produced in an argument. The daimon halts. The argument precludes contradictory assertions. If the polis-soul analogy holds, a soul that cannot obey reason, just as a citizen who cannot obey the law, is not just. What's more -- it is not capable of justice, if indeed just actions are the reified ideal of justice. Criticism solves the problem that the newly-revealed poses, since criticism is done according to man's implicit, natural position/situation, which is revealed through logos. (The human, apparently fugitive, is ineluctable when it comes calling. [erchomai] : to be come, or be gone) As such, the new is granted an eternal aspect by criticism. Whatever instagram is is subordinated under what technology and society always have been. he polis makes its movements by legally-appraised actions, which are definite, revealed relations. )
+
+Bodies are biological entities with a will to power. Science, if it is a Leviathan, and not simply a machine or mecha which is piloted or programmed, makes use of appropriately-formed limbs to perform appropriately-defined functions. If science is perpetually being designed, then it incorporates, or admits, only those functions that regulate the imagination *in the necessary way*.
+
+Science accepts the mathematics that regulate the imagination. The project of physics is to find the mathematical forms which encode our *experience* of the world (in, if not intelligible form, rigorous, repeatable form, like complex and imaginary numbers.) It's our understanding of the world that's mathematized. [Introduce and interpret the drive of falsification mentioned in Nietzsche's late notebooks here.] Logic's function is contingent upon this drive of falsification. [Kantian notion of schemas -- are they a problem for this argument? Sensation -> Imagination -> Apperception. Schemas relate appearances to concepts. As such, they intervene between the steps of sensation and apperception. If the schema is not itself the imagination, it must be one or the other arrow in the above diagram. As such, they're operative prior to the production of a suitable thought in the imagination. The schema of four is not itself the mental representation of four, conveyed *by the imagination* to the apperception in the form of a thought. But for an appearance to excite the concept of four, ]
+
+A master has an end to which his slave is adapted. The appearances are reduced to mental phantoms/ noetai. (It's during this step that we can see the problem of translation. Even the same image has different expressions. Rappeller is like recall, but not like remind. Recordarse is not like souvenir [to come from under].)The complex world is reduced to identities which are easily put into analogies (Homer's similes, Heraclitus's metaphors, Socrates's myths, Descartes's ciphers, Galileo's diagrams, Newton's diagrams, Leibniz's symbols). To master is to reduce, to subjugate complexity.
 
 Rules of a game similarly subjugate the soul, provisionally reduce its complexity. This is necessary for clarity; we cannot think without simplification. Language itself never appears without rules. Word-games would not be so ironic otherwise. "Cheveux, not chevaux!" *Thinking* is a game, which can make only certain legal moves. 
 
