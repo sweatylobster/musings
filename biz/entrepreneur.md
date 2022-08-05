@@ -4,15 +4,17 @@ Somebody prints money. Money is demanded to value/trade valuables. There is a se
 
 # Definition of the entrepreneur
 
-The entrepreneur faces expenses alone; selects dependable instruments to avert/minimize risk. These instruments are dependable by wage contracts. Business is negotiation, and better entrepreneurs are better negotiators. People can always negotiate rates -- having a reservation price is always a viable strategy. Entrepreneur receives most compensation for providing the end to which laborers work. That there are materials to adapt and prepare by workers is what justifies the entrepreneur's entitlement to the majority of profit. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function. To borrow a concept from Ford Doolittle, the entrepreneur writes a song the employees sing. Any choir can perform the song -- any audience member can recognize the song. The employees are not essential to the being of the song in the abstract. They are rather its activity, its execution. 
+The entrepreneur faces expenses alone; selects dependable instruments to avert/minimize risk. These instruments are dependable by wage contracts. Business is negotiation, and better entrepreneurs are better negotiators. People can always negotiate rates -- having a reservation price is always a viable strategy. Entrepreneur receives most compensation for providing the end to which laborers work. That there are materials to adapt and prepare by workers is what justifies the entrepreneur's entitlement to the majority of profit. We don't suspend Locke's definition of labor-value in paying her out; she is compensated for her executive function. To borrow a concept from Ford Doolittle, the entrepreneur writes a song the employees sing. Any choir can perform the rehearsed song -- any audience member can recognize the song. The employees are not essential to the concept of the song in the abstract. They are rather its activity, its execution. 
 
 # The entrepreneur neither expert nor learner. 
 
-The entrepreneur is typically charismatic, He must be sure of his judgment, and not show signs of insecurity -- it's bad for morale. As such, the entrepreneur is not unlike the general -- his is the last word.
+The entrepreneur is typically charismatic. He must be sure of his judgment, and not show signs of insecurity -- it's bad for morale. As such, the entrepreneur is not unlike the general -- his is the last word.
 
-at times, decidedly against logical rigor, leaving this 'squabbling' to mere specialists.
+Customarily, the entrepreneur is decidedly against logical rigor, leaving logistical 'squabbling' to mere specialists, mere technologists.
 Under what conditions of logistical independence is this attitude permissible?
 
+The technologists must be capable of determining the task. (Peter F. Drucker - The Knowledge Worker)
+They must both be autonomous, and know how to optimize their own productivity.
 
 is somewhat ironic since The logical clarity of employees and specialists in *a priori* matters uniquely optimizes (arithmetical) logistics. The larger a company, the greater the expenses incurred by operation. For large businesses, mathematical accounts of logistical optimization become indispensable. The least inefficiency is shown to be ridiculously costly on monthly balance-sheets. More on mathematics later. The entrepreneur's labor is of designating necessary tasks. So the entrepreneur issues a logistical plan which brings income under certain conditions. Managers hired ensure that the conditions obtain.
 
