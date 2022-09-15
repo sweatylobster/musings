@@ -14,9 +14,11 @@ Customarily, the entrepreneur is decidedly against logical rigor, leaving logist
 Under what conditions of logistical independence is this attitude permissible?
 
 The technologists must be capable of determining the task. (Peter F. Drucker - The Knowledge Worker)
-They must both be autonomous, and know how to optimize their own productivity.
+Both the entrepreneur and the technologist must be auto-kubernetes. It is up to them to know how to optimize their own productivity.
+This follows from a definition of the task. 
 
 is somewhat ironic since The logical clarity of employees and specialists in *a priori* matters uniquely optimizes (arithmetical) logistics. The larger a company, the greater the expenses incurred by operation. For large businesses, mathematical accounts of logistical optimization become indispensable. The least inefficiency is shown to be ridiculously costly on monthly balance-sheets. More on mathematics later. The entrepreneur's labor is of designating necessary tasks. So the entrepreneur issues a logistical plan which brings income under certain conditions. Managers hired ensure that the conditions obtain.
+
 
 # Relation of the entrepreneur to managers 
 
