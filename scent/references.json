@@ -1,0 +1,74 @@
+{
+	"authors" : {
+		"Nietzsche" : {
+			"works": [
+			    "The Gay Science",
+			    "The Late Notebooks",
+			    "Genealogy of Morality",
+			    "Beyond Good & Evil"]
+		},
+
+		"Husserl" : {
+			"works" : [
+				"Crisis of the European Sciences",
+				"Logical Investigations",
+				"The Vienna Lecture",
+				"The Origin of Geometry"]
+		},
+
+		"Descartes" : {
+			"works" : [
+				"Meditations on First Philosophy",
+				"Letters (to Catherine)",
+				"La Geometrie"]
+		},
+
+		"Kant" : {
+			"works" : [
+				"Critique of Pure Reason",
+				"Metaphysics of Morals"]
+		},
+
+		"Baudelaire" : {
+			"works" : [
+				"Les Fleurs du Mal",
+				"Letters? Confessions?",
+				"That work on cannabis"]
+		},
+
+		"Peirce" : {
+			"works" : [
+				"Theory of Pragmatism",
+				"Consequences of Four Incapacities"]
+		},
+
+		"Aristotle" : {
+			"works" : [
+				"Nicomachean Ethics",
+				"Categories",
+				"Prior Analytics",
+				"Posterior Analytics"]
+		},
+
+		"Klein" : {
+			"works" : [
+				"Greek Mathematical Thought and the Origin of Algebra"]
+		},
+
+		"Lachterman" : {
+			"works" : [
+				"Desire",
+				"Ethics of Geometry"]
+		},
+
+		"Ferrarin" : {
+			"works" : [
+				"I forget, had to do with construction"]
+		},
+
+		"Padui" : {
+			"works" : [
+				"The world as construct: the Kantian origin of the very idea"]
+		}
+	}
+}

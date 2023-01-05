@@ -1,8 +1,44 @@
 # why?
+Sabine Hossenfelder called mathematics "useful".
+But who could it be useful to?
+And where did it come from?
+People typically don't consider mathematics an *a priori* science.
+To learn the meaning of the term apodeictic in college seems to be late.
+So, mathematics is not itself a tool.
+I think she means to say the body of symbols is a tool.
+The reason for this, is that it is an external memory.
+We'd have to start with Descartes's logistice speciosa (Jacob Klein's 'Greek Mathematical Thought and the Origin of Algebra' does most of the work which I see would be necessary: why is it that we can say we converted a magnitude into a letter? What does it mean to have a stand-in? Why do we begin with ratios before numbers? How fundamental is the notion of a 'stand-in' in the Greek view of mathematics? How are we to see our development of the Pythagorean notion of the cosmos as number, in present day? Are there fields which have not made progress simply because they have not yet received an arithmetic treatment, or are only certain senses, like vision and hearing (geometry and music) capable of receiving an arithmetic treatment? Can we have ratios for scent? And is harmony a ratio? We know harmonies hold in ratios -- but do we experience the ratio? No -- an octave up here is different from an octave down here. We *recognize* the ratio of octave that is held in common between the two particular octaves. We don't get a direct appraisal of *schemata* in the work, but, then again, we are dealing with arithmoi. What Pascal, however, says, about arithmetic falling out of geometry, might be relevant. p.434 : 
 
-Sabine Hossenfelder called mathematics "useful". No matter its domain or origin: would it not, in both cases, be the understanding? People typically don't consider mathematics an *a priori* science. There's no common wellspring of its truth, because mathematics is not explored phenomenologically. Even then, we don't know how we stand in relation to Kant, Hume.  
+"Perhaps it will be thought strange that geometry cannot define any of the things that are its principal objects; for it can define neither motion nor numbers nor space, and yet thesse are the three things it particularly considerse and in acoordance with whose investigation it takes the three different names of mechanics, arithmetic, and geometry, this last word belonging both to the genus and to the species."
 
-ertainly pIt wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the social sciences. In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. Our vanity on the one hand makes it difficult to simplify ourselves, and on the other hand simplifies nature with marvelous economy. 
+Why, then, would Dedekind seek an arithmetical definition of continuity if geometry is the genus and the species underlying arithmetic? Geometry always seems to require the use of an aid. One can use one's fingers to count -- but isn't this slow at a certain point? We actually can't employ our fingers in proving the general truth of an equation between a series of cubes and squares. For the terms he uses bridge gaps between the two. 
+
+There's no common wellspring of its truth, because mathematics is not explored phenomenologically.
+
+So there must be )
+
+,The symbols and schemas we use to aid the understanding are tools.
+And yet I have not been exposed to cogent theories on mathematical symbolism that are mainstream.
+For me, such a theory would be able to honor Sir Rowan Hamilton's search for quaternions, as well as Maxwell's preference of them over 
+The technique employed in Galileo's Third Day, Theorem 1, 
+
+
+
+It wasn't just this: during the interview conducted by an interlocutor struggling to prove his competence, and recorded with totally unnecessary camera movement, she stated that the application of mathematics has a greater bearing on the practice of physics as a living science than the social sciences. In other words, the social sciences have not adopted mathematical forms to articulate the problems proper to their fields. This is probably because many social scientists do not conceive of the possibility of regulating the understanding, or lack the proof of the validity of *a priori* sciences. Our vanity on the one hand makes it difficult to simplify ourselves, and on the other hand simplifies nature with marvelous economy. 
+
+But, now that I return to this essay after a few months, I see another cause.
+It's not that we are vain; this is especially true of any particular man.
+The difference is the nature of each science.
+So social sciences, as Pagano 
+
+Dougherty argues in ['Cartesian certainty, or awakening from the dreams of a slave'](https://s3.us-east-1.amazonaws.com/sjcdigitalarchives/original/8b651a21d35fe61381a296383111e927.pdf):
+
+"Descartes aims in his philosophical work to discourage us from seeking the basis for our convictions concerning what is best for human beings. In 'The Meditations' as in 'The Discourses' Descartes provides a solid foundation for the sciences by limiting their scope, and knowledge of the good is and will forever be beyond the scientific pale. In place of a goal to strive for he offers a rule for determining that an assertion is true, and an aexample of strict self-restraint in refusing to assent to anything that may be illusory.'"
+
+
+"Just as Descartes alters the ancient understanding of ta mathematica to include the elements out of which all figures are composed and only indirectly the figures (curves) themselves, so in general Descartes lowers our philosophical sights to focus on the bases of knowledge. In doing so he shows the way to develop an enormously successful investigation into the workings of nature. But instead of the hope for true if not always satisfying answers to fundamental moral and human questions, we get a rule for the management of our will. The best way to live can be known onlyl formally. What one 'decides' to be best may be best by convention, for our health and well-being or for the improvement of our souls. Hedonistic abandon would be irresponsible insofar as it clouds thought, but might one not decide that the best end to pursue would be tyrannical power? Descartes' moral thought requires that one give up the vain ambition to know what is truly and unequivocally good. But for all his promise to lay the foundation for a science that will disclose the secrets of the natural world, that science can provide little or no defense against evil ambition. Cartesian inquiry is detached from, even indifferent to the most pressing human questions..."
+
+in particular, the reason for this lack of mathematical clarity in the social sciences, is due to the nature of the 'clear and distinct' criterion 
 
 # Feynman's insufficient classification of Euclidean science as an axiomatic system
 
