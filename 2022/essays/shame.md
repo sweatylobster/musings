@@ -1,4 +1,4 @@
-The problem is remaining free. 
+The problem is remaining free.
 To be free is to be rational to one's own ends.
 If desires are implanted in me, then the ends of others can be fulfilled through my satisfaction of alien desires.
 If others can motivate my actions, I am not free.

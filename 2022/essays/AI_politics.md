@@ -111,8 +111,8 @@ The energies of this class of men are crucial for the possibility of leisure.
 Leisure is the basis of society as we understand it, however.
 I really ought to read Huizinga on this.
 But theoria and schole are clearly a type of ludus.
-The theoretical activities of philosophy are the expression of vital energies in a context of play.
-Huizinga's thesis apparently is that play is a necessary, but not sufficient condition for society.
+The theoretical activities of philosophy are the expression of vital energies in a context of play.(My claim?)
+Huizinga's thesis is rumored to be that play is a necessary, but not sufficient condition for society.
 Obviously, there are many human types which require society for survival.
 But more crucially, it seems that society can only exist as a complex of operated machines.
 Machines of various kinds are indispensable for expanding human will.

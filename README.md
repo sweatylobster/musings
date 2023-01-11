@@ -1,19 +1,58 @@
-# musings
-Helping myself get the relation between experience and science straight
+# Index
 
-# What is an expert, and why does the entrepreneur need him?
+Each folder is a book.
 
-Anyone who wants to get business done today will employ skilled laborers, to ensure both quality, and timely completion of his project. Since all skill is the insulation of neuronal pathways by a myelin sheath, all skilled laborers are chosen for their particular configuration of myelin. Since myelin takes a great deal of time to build, the entrepreneur is justified in saying he "doesn't have the time" to build it. His role in bringing the project to completion lies instead in envisioning the requisite steps for the project's completion. For this, he must identify the operands which the operators (skilled laborers) are to work on, and then to contract them at a price acceptable to him. In some sense, it is by this reliance alone that one can be expect to do business in a timely manner. The entrepreneur pays the laborer a wage, and for it the laborer redeems the pragmatic import of his sophistication.
+## My dispositions are why I'm repurposing the repository
 
-# Atlases | The men who do everything themselves
+I have two dispositions that hamper my productivity.
+The first is working in excessive detail.
+The second is abandoning projects before the sketch is complete.[^1]
+My arguments are thus richly detailed and lead nowhere.
+So I'm reorganizing this lotus-garden of a git repository project by project.
 
-There's another species of man, however, who does everything required to bring the project to completion himself -- one who learns on the job. This man, because he loses time and turnaround, is supposed to subject himself to such an exacting approach only because he lacks the capital to employ others. Alternatively, he is viewed as a hobbyist. Assuming the former: If in a conversation with the entrepreneur, he might rightfully be asked: "So you want me to become an electrician, just for this project? When will I ever use that again?" It's out of wounded pride that Atlas here would say "I plan to do it again, and I'll be better the next time," because it's an answer poorly considered. Does this man see this approach as dignified, or superior to the approach of the entrepreneur's? He must know that the entrepreneur is getting stuff done quickly -- perhaps dozens of projects like his own, all around town. This jealousy eats up the Atlas. It seems to be out of stubborn, boorish ignorance that he continues his sub-optimal method, if not out of his definite, uncompromising resolve to fulfill what he has set out to do. In either case, the man waits for experience to furnish him with the necessary insights to improve his skill and station -- and thereby, his fortune. 
+## Projects
 
-# That quality the expert has in common with a machine, of which Atlases are wanting
+1. Ethical action depends on the imagination (Peirce, Kant, Aristotle). Need to control imagination (by language). Language of morale, possibility, self-conception.
+2. The nose will redeem epistemology by dreaming *awake* (Husserl, Baudelaire, Nietzsche)
+3. Vita contemplativa is an essential possibility of a vital capitalist economy. (Smith, Aristotle) The philosopher is an efficient experimenter; by simplifying, and doesn't need to consider as much. Philosophers create radical changes in the conception of the world. Lavoisier's terminology cements notions, instantiates relations by suffixes, prefixes. How does Mendeleev's table anticipate all of the elements? (Schema.) The revolutionary conceptions simplify. However, not just anyone can productively contemplate. All men simplify at the end of their lives, but this is not wisdom or knowledge; it's merely generalization. But generalization is a tool. What kinds of philosophy lead to a pragmatic difference? Medicine, Aristotelian politics as the model philosophical practices. How has medical knowledge been advanced? What is the skill of philosophizing? Zetetic method of Plato, (c.f. Vieta). If we're worried whether the zetetic method has gotten us anywhere, look at Descartes's symbolic expansion of Galileo's application of the zetetic method in the realm of natural philosophy. One must be a productive philosopher. Skill as a philosopher. Philosophy advances human agency. Industrialization exploits knowledge.
+4. Genealogical obligations and the need to revisit Pascal.
+Using Nietzsche's Genealogy of Morals to redefine the need of the wager for God's existence (Nietzsche, Pascal)
+5. The eyes can only avert testimony (Racine)
+6. Man the dreamer: Transcendental theme of the Cartesian epoche is arrived at by an interpretation of the dreaming man who awakens. Bad judgment about the senses--scent is clearly neglected. Impossibility of an epistemology which neglects the function of the nose in producing percepts for the dreaming ego. Time to wake up. "We are unknown to ourselves, we men of knowledge."
+of nature spurs the mental instincts by repression to exert power
 
-Viewed from its most general standpoint, it is *a* (any) nervous system which is performing "the welding." (Substitute any act which requires a degree both of caution and technical proficiency). "Yes, and all of these nervous systems have the skill/myelin to appropriately..." Anyone responding like this has to answer: Is the automaton a welder? Or an electrician? No: the machine operates according to quantitative criteria; it is simply following a recipe. The recipe has it perform the designated output of a conditional statement. "If this hot, to activate..." Can this "judgment" of the machine be rightfully said to differ at all from the judgment of the skilled laborer, if the products brought about are identical? In the way that the "judgment" is brought to bear upon the material at hand: no. The two products are materially interchangeable. The salient fact here is that the automaton's program stands in for the savant's myelin. When the analogy is drawn between skilled laborer and automaton like this, the common, mediated quality is the criteria they share for performing appropriate actions -- quantitative in the case of the machine, intuitive in the case of the savant. Since the skilled laborer judges intuitively, in terms of qualities and not quantities, the analogy seems to fit quite poorly to him. But such a man must sit with himself and really puzzle over the possibility of being replaced with a machine. "How could it be that a machine can do exactly what I've learned to do, over years of experience?"
+## Themes of the projects
 
-# The language of physics as mediator between the automaton and skilled laborer
+- Various organs interact with knowledge and truth differently
+(Therefore there's a different taste or penchant for truth in each organ.)
+(Phedre: Mais il en a les yeux, s'il n'en a le langage.)
+(Baudelaire: )
 
-The language of physics is sufficient to articulate what an agent has to do, in respect of altering mathematical identities, to get the product desired. After all, the entire meaning of the science of physics is that it quantifies causes, and in so doing, enables a chain of inference from quantified cause to quantified effect, whose only meaning is empirical.
-An awareness of this possibility to articulate what is *generally required* by *any* laborer whatsoever would increase the efficiency of the entrepreneur. This would be accomplished by formally articulating the operands in terms of their quantitative requirements. What material can withstand this vector we anticipate will be quite common over the structure's lifetime? Does this not seem to be the discipline of engineering? If it is possible for the entrepreneur to do this with all operands, it must be possible for the Atlas to do this as well, as science belongs to neither of their skillsets, and is instead brought to bear upon them. Viewed from this perspective, does the Atlas need experience? Or must he simply follow the recipe?
+
+## Topics
+1. Psychology
+2. Ethics
+3. Phenomenology
+4. Mathematics
+5. Transcendental thinking
+
+### Footnotes
+
+[^1]
+From Aristotle's *Nicomachean Ethics* [I. vi. 23]:
+
+"The beginning is admittedly more than half of the whole,
+and throws light at once on many of the questions under investigation."
+
+δοκει γαρ πλειον η ημιου παντος ειναι η αρχη,
+και πολλα συμφανη γινεσθαι δι' αυτης των ζητουμενον.
+
+dokei= ga\r plei=on h)\ (/hemiou panto\s ei)=nai h( a)rxh/,
+kai\ polla\ sumfanh= gi/nesqai di) au)th=s tw=n zhtoume/nwn.
+
+Setting ourselves up correctly is the most important effort to undertake.
+But this also has to have an end.
+Like he says, anyone can fill in the outlines (e.g. coloring books for children).
+So get good at sketching completely *in one session*.
+I'm good at zooming in on details (take the Greek above, and this footnote).
+Work faster.
