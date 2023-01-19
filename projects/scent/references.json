@@ -1,11 +1,21 @@
 {
 	"authors" : {
 		"Nietzsche" : {
-			"works": [
-			    "The Gay Science",
-			    "The Late Notebooks",
-			    "Genealogy of Morality",
-			    "Beyond Good & Evil"]
+			"works": {
+			    "The Gay Science" : {
+				    'one' : {
+					    'section' : 134,
+					    'page' : 186,
+					    'quote' : 'The German discontent with life is essentially a winter sickness that is worsened by the effects of stuffy cellar air and the poison of stove fumes in German living rooms.'
+				    },
+				    'two' : {
+					    'section' : 349,
+					    'page' : 292,
+					    'quote' : 'The whole of English Darwinism breathes something like the musty air of English overpopulation, like the smell of the distress and overcrowding of small people.'
+				    },
+			    "The Late Notebooks" : [],
+			    "Genealogy of Morality" : [],
+			    "Beyond Good & Evil" : []
 		},
 
 		"Husserl" : {
@@ -71,4 +81,5 @@
 				"The world as construct: the Kantian origin of the very idea"]
 		}
 	}
+}
 }
