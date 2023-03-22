@@ -6,10 +6,18 @@ of nature spurs the mental instincts by repression to exert power
 # Introduction
 
 We can imagine spaces we've never seen before, and feel a distinct aesthetic impression.
-I can feel cramped from a drawing, an architecture plan, or just my imagination.
+Architecture plans can trigger someone's claustrophobia.
 But we can't imagine smells we've never experienced.
+What would the rules be?
+I know I need three dimensions for any space.
+What are the conditions for a smell?
+What are the schemas 
+Does the phenomenology of smelling correspond to analysis?
+Is there a structure-odor relationship? 
+In view of these problems, that literature evokes olfactory sensations is remarkable.  
 How *does* literature access the olfactory organ?
 Even remembering what perfume smells like is difficult, distinct as it is.
+
 Maybe all we have is the impression it makes.
 Still, why is the imagination limited to visual productions?
 Why don't we also have the ability to conceive of smells analytically, or harmonically?
@@ -43,7 +51,7 @@ I think I remember Ari's jean jacket smelling like her, but what is that smell?
 I can describe it, but I can't summon it back at will; it swoops down at me.
 I'd be interested in seeing how Proust deals with smell.
 In what sense is it an obstacle for him, or a means?
-That's actually exactly where I should go. Wow.
+<!-- That's actually exactly where I should go. Wow. -->
 How *does* literature access the olfactory organ?
 When I say 'black, oozing, fetid discharge', why is it different from a brown one?
 The two smell different.
