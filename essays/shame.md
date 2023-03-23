@@ -2,7 +2,7 @@ The problem is remaining free.
 To be free is to be rational to one's own ends.
 If desires are implanted in me, then the ends of others can be fulfilled through my satisfaction of alien desires.
 If others can motivate my actions, I am not free.
-If others can assure my inaction, I am not free. 
+If others can ensure my inaction, I am not free. 
 If others anticipate my rebellion/unpredictability, I am not free.
 (Evasive maneuvers or flares? Forget cost: stay alive.)
 To be free is to be rational to *my* ends. 

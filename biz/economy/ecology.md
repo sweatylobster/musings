@@ -60,7 +60,7 @@ Let others make you angry and you alienate the benefit of your anger.
 Obviously, it is true you are controlled by anger.
 (As by any other passion!)
 To defend against the force of this truth is ironic;
-To resist it is to try to be 'free' the wrong way, since we can't defy reason.
+To resist it is to try to be 'free' the wrong way, since we can't defy nature.
 (Is it being free, or is it being dominant?)
 (I think about relativity: the revision to Maxwell's 3rd equation, Huygens's boats, + balls,)
 The principle of relativity applied to a fight: there is always only one center to a fight.
@@ -73,6 +73,7 @@ But anger is a unique passion in that it always has an object.
 It is maybe the most object-oriented passion.
 Its extreme focus is blinding, but this is exactly its power: the commitment to its object.
 This means that anger has to enter only in moments, and never be an obsession.
+Surgical fury.
 
 Therefore, to remain free, you must be the *only* one in control of your anger,
 lest you vainly conquer the wrong object.
