@@ -8,8 +8,34 @@ For example, Dedekind broke continuity's reliance on the geometrical intuition f
 
 ## The tradition; scientific reproduction of scent; are smells capable of arithmetical representation?
 To date, there are no units that describe scents.
+This is significant in the age of data accumulation.
+because all manners of recognition which are leveraged by an AI depend on an arithmetical basis.
+For example, in supervised learning problems like image classification, we're dealing with visual recognition.
+But does geometry have anything to do with the recognition event?
+C.f. Husserl's "The Mathetizability of the Plena" in the Crisis of the European Sciences.
+
+-- the recognition of an image as a species of a genus requires a distance metric and a threshold which it shall not exceed.
+The only way I can call my subjective experience of scent into a quantitative function is by relating the strength of the smell with the number of particles rubbing against my nasal bulb.
+This does appear to be a periodic action.
+When more particles rub against my nose, 
+While this does seem to be a periodic action, it seems that the greater the flux, only greater is the amplitude.
+
+The only way I can quantify the scent impression is by The only quantity that comes to mind when  that fits into our subjective The strength of the impression can be quantified by the number of particles rubbing against the nasal bulb in an amount of time.
+But how is the subjective experience of the scent produced, if not by the unique form of the particles, either singly or as a bouquet, as they rub against the nasal bulb?
+The shape of the particles is the 
+We're concerned with how the *recognition* of a smell takes place.
+Because AI is concerned with arithmetic modes of recognition, we would like to ask whether an arithmetical mode of emulating the psychological event of recognition is not 
+But, like Svedburg units, the shape of the units is ; only the advantage is that they are visible, and their form is observable.
+
 This is important because AI receives a representation of the world via number.
+But recognition is defined par excellence in the act of recognizing a scent.
+This means that the psychological experience of recognition is not partial to one of recognizing a number.
+Recognition would have a different ground than logic, and would instead share in the ground of the olfactory faculty.
 This means that AI can conceive of the cosmos exactly, and in no more sophisticated a manner than the Pythagoreans.[^2] (Read Klein again, cazzo)
+This is significant because recognition is a psychological event which does not have an arithmetical basis.
+The advancement of chemistry as a science will not advance there is not a public theory which unifies the psychological contents of a scent perception and the corresponding grounds.
+That this is *not* possible requires a phenomenological argument.
+
 How exactly are perfumes reproduced?
 All we need are ratios of certain scents which might reach certain concentrations.
 Still, we're not saying that musk is describable in terms of certain units.

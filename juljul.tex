@@ -1,0 +1,105 @@
+%! TeX program = lualatex
+\documentclass{article}
+\pagestyle{empty}
+
+\usepackage{epigraph}
+\usepackage{luacode}
+
+\author{Max de Hoyos}
+\title{Musings on where I am creatively}
+
+\begin{document}
+
+\maketitle
+
+I've made a few tools. Once I started vacation though, I realized I wasn't as creative as I'd been in the past. I don't get many flashes of brilliance, or crazy intuitions anymore. It's not that I'm done with the tools -- I hardly have scraped the surface of what can be done with many of them. I still have goals, but they're more mathematical, and more technical. Learn how to loop better, or use Lua better, or write classes better, etc. ``Learn this so such-and-such can be accomplished.''
+
+Anyway, it's a good idea to take inventory of what I've done. Here are the classes I've written in Python.
+
+\begin{enumerate}
+	\item ConexemScraper()
+	\item ConexemCleaner()
+	\item LuaLatexDocumentCompiler()
+	\item LienMaker(), derived from this
+	\item BillMaker(), also derived from this
+	\item ProofMaker(), also also derived from this
+	\item FuzzyMonster
+\end{enumerate}
+
+The first two alone have gotten all of the demographics and schedule data. I want to extend the Scraper so that it can just extract values from reports, or download them outright in a structured directory. This way, I can do the backup the doc needs.
+
+So for \textsc{ConexemScraper}, the following functions ought to be added:
+
+\begin{enumerate}
+	\item Copy all documents for a patient into an eponymous directory
+	\item Scrape the most recent PR2, get the treatment and the body parts
+	\item Count the therapies remaining etc.
+	\item Download, scrape, OCR any report or diagnostic
+	\item OCR any pdf and re-upload the OCR'd copy.
+\end{enumerate}
+
+Then, it'd be really cool to visualize which body parts are affected with a wireframe thing. Generation of wireframes given height and weight... to really nail the visualization down, maybe you can scroll through a few fat distributions? Like Dark Souls character creation, but for patients and their maladies. All we do is approximate which of the fat/muscle distributions most resembles the patient.
+
+Yeah, it'd be cool to get more data and better metrics, by having them step on a conductive scale which directly measures adiposity by its relative conductivity. I'm on a plane, and I'm trying to be busy with something, so I want to break this down with some neat little \LaTeX.
+Ok. We're solving a body composition problem in what seems to be a roundabout way, until you realize how clever the solution is. Ultimately, the answer's just a nifty little table lookup. You read the weight on the scale, and you read the amps you're getting back after an electrical impulse completes a circuit, starting from the scale, going through the person's body, and ending back at the scale. Yeah, there's gotta be a constant involved for the electricity, because we're reading body fat percentage, and not strictly amps. The weight's easy.
+
+Let's say you have two people of varying weights but identical body fat composition. Is the amperage read on the scale an identical value?
+If weight's proportional to mass, and mass is proportional to resistance, then the amperage cannot be the same. The greater the mass, the longer the path. Voltage remaining the same, the amperage must be less in such a case where the resistance is greater. (This is the first syllogism that's actually felt useful for me. Wow.) Therefore, the body fat percentage can't be a ratio of the read amperage to an ideal amperage, or can it?
+
+The higher weights have the worst amperage values because there's that much more path for the electricity to travel through.
+
+\begin{displaymath}
+	Pa = \frac{lbs}{ft^2}
+\end{displaymath}
+
+Practically speaking, all a scale does is take a pressure measurement and multiply the area the hell out of the equation. The scale is endowed with just enough self-knowledge to ignore half of its mathematical being. Neat. So it just multiplies its own area out of the equation and gives you back your weight. by taking the weight and adding an electricity problem. like the scale is a given voltage, and the person is a path which completes a circuit. The current which returns is proportional to the conductivity of the tissue. Given the amperage and the weight, the conductivity is inferred, since the body fat \% is a function of 
+
+Ohm's law, people:
+\begin{displaymath}
+	I = \frac{V}{\Omega}
+\end{displaymath}
+
+The intensity $I$ of the current is the ratio of the potential (in volts $V$) to the resistance (in ohms $\Omega$). Higher potential, more current. Higher resistance, less current. So if fat is less conductive, then it's more resistant.
+
+So obviously, we have a given weight. If tissues differ in their conductivity, then the resistance is proportional to the joint conductivity of the tissues
+\begin{displaymath}
+	B_f\% \propto \Omega
+\end{displaymath}
+
+
+\begin{displaymath}
+	B_f\% \propto \frac{1}{I}
+\end{displaymath}
+
+All you have to do is a table lookup where the two axes are the weight you're reading and the amps you're reading.
+
+It'd also be cool to just take pictures with some vectorized cameras. But we're not the doctors. Even if we're just equipped with a \textit{naive} 3D model, the machine learning on this could go nuts. A cool thing would be to do Principal Component Analysis, or dimensional reduction: we want to capture the highest variance relationships, from what I understand. I.e., ``It's along this axis we find the data to vary most.'' The two ends of the first principle component (PC) are the greatest Euclidean distance. (A straight line is the shortest way to connect two dots.) 
+
+Here's why something this fancy would be cool. Consider gravity and an obese woman's lower back pain. Plotting these covariant identities and realizing that most 200 lb 5'5'' people suffer from \textit{constant} lower back pain might not be particularly shocking, but we'd isolate a type of physical force, viz. gravity, i.e., which really implies a quantifiable compression. We would be able to recognize classes of pain, and classify pathologies on a quantitative basis.
+
+For example, some patients are in pain because they're weak, and others because they're overweight. Either way, there's a correlation between the physical properties of the structures and some relevant physical equations. But from a naive theoretical standpoint, lack of muscle is always an issue. But what's the minimum amount of muscle required to cause the pain to abate? What are the universal conditions under which the pain does abate? And this would only be satisfiably posed from a unified theoretical standpoint.
+
+Well, certain strength tests in a doctor's report are supposed to illuminate these relationships. The doctors themselves have no skill in extracting insights from these data; they aren't data literate. These data are then exclusively to enable the insurance companies to make the inferences that compose their factual situation, and therefore their rhetorical angle of attack. Strength tests are a smart test to ask for, because you can't really lie. There's an upper limit. It's great that they're separated from mobility tests, too, because the doctor can assist, and also knows when a patient's full of it. Nobody likes a crybaby. Yeah, a certain friend of ours doesn't exhaustively measure everything, which is worrisome. Hopefully he knows what he's doing, but idk. 
+
+You could probably isolate the cause of the pain. Is it nerve damage due to a particular incident, like Gabe? Or is their patella shifted a quarter foot out of place, like Cristobal? Are they muscularly undeveloped, like Frank Gallidoro? Or Glenn Green III, for that matter? None of these people do exercise, but they're not all in pain because they're obese. Some people are just weak and are like 30 pounds under-weight. Yeah, they all do repetitive work, etc. but skipping workouts is the killer. You'd be able to find a sweet spot where you designate the range of muscular force you'd need to produce, given a certain composition, in order to avoid pain while performing certain activities.
+
+None of this really answers what the cause of pain is. It helps with the pathology, or the explanation of the pain. I usually hate the term pathology, because, as with everything in medicine, it's fraught with the diarrhea smear style of reasoning which doctors always resort to. They learn Latin, but not really. Greek, but not really. Functions of certain muscles, kind of. There's no unified theoretical and nominative knowledge. ``That's why it's called such-and-such'' is so rarely satisfying -- rarely is there an etymological ground for doctor's saying this. Yeah, they go to school, and try really hard, but they have no acquaintance at all with philosophical and theoretical disciplines, which alone investigate the unity of medicine as a \textit{theory}. In fact, there is no theory of medicine. Let's not reason from complicated grounds. The simplest way to prove it is the greatest diversity of opinion on the most common cases, and the general flavor of the diarrhea-smear school of relativistic reasoning. It's like when Aristotle's starting off an argument with a μέν δε, but they drop the particles and the reasoning that follows. Medicine is a pool of rational diarrhea. It's a miasma produced by the laziness of money-hungry doctors who chose a safe profession. I have very little respect for the scientific \textit{titre} of doctors, and would hate to have them as my colleagues. Doctors are naught but operators of a fashionable technology of medicine, which is to say they don't have the least theoretical concern on their bald heads. They adopt the appearance, just like plague doctors their own grisly and ridiculous, if partially effective, visage of etre-savant, but just as the mask stands out only now in its historical remoteness as just idiosyncratic enough, just Florentine enough, so does the doctor's flaccid and ruffled tunic of jargon, which he constantly trips over even when the least ephemeral and least idiopathic questions are posed to him, so too is his mask of scientific distinction just idiosyncratic enough, just American enough.
+
+Doctors are just drug-pushers. They don't know how to fix anything. The few surgeons here and there think they're god's gift to the earth. They're just shifting a few structures back into place, based on the way these things \textit{normally} move.
+
+\begin{enumerate}
+	\item A selenium webdriver with functions to interface with Conexem
+	\item Regex patterns that extract data from html
+	\item Scripts which leverage these
+\end{enumerate}
+
+
+\begin{enumerate}
+	\item LuaLatexDocumentCompiler()
+	\item LienMaker(), derived from this
+	\item BillMaker(), also derived from this
+	\item ProofMaker(), also also derived from this
+	\item FuzzyMonster
+\end{enumerate}
+
+\end{document}

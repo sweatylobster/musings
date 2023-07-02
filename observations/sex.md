@@ -1,9 +1,12 @@
 The nature of a woman is to make man think about her.
 This is her care for truth.
-Would that all of his attention be true to me.
+"Would that all of his attention be true to me."
 The romantic goal of a man is to know all women.
 This is his desire for truth.
 Would that all of my thought be true of her.
+(But her as any x in general.)
+Logistice speciosa de les femmes.
+Every man's symbolic calculus of women.
 Both women and men generalize in romance, but it's not males that stop females from generalizing.
 Men therefore derive actionable power from generalizations.
 Women do not.
